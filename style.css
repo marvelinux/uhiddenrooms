@@ -1,0 +1,121 @@
+@font-face {
+	font-family:wingding;
+	src: url(wingding.ttf)
+}
+body {
+	background-image:url(gaster.png);
+	color:white;
+	font-family:"Courier New";
+}
+.sticky {
+	float:right;
+	position:-webkit-sticky;
+	position:sticky;
+	top:0;
+	width:120px;
+}
+.wing {
+	font-family:wingding;
+}
+.Arial {
+	font-family:Arial;
+}
+.hover:hover {
+	background-color:violet;
+}
+.none {
+	text-decoration-line:none;
+}
+.center {
+	text-align:center;
+}
+.hover-solid:hover {
+	background-color:black;
+	border-width:medium;
+	border-style:solid;
+	border-color:white;
+}
+.solid {
+	border-width:medium;
+	border-style:solid;
+	border-color:white;
+	overflow:auto;
+}
+.solid-link {
+	color:white;
+	background-color:black;
+	border-width:medium;
+	border-style:solid;
+	border-color:black;
+	overflow:auto;
+	border-radius:12px;
+}
+.solid-link:hover {
+	border-width:medium;
+	border-style:solid;
+	border-color:white;
+	background-color:black;
+	overflow:auto;
+	color:white;
+	border-radius:12px;
+}
+img.right {
+	float:right;
+}
+img.r123 {
+	height:120px;
+}
+img.r264 {
+	height:100px;
+}
+img.r267 {
+	height:100px;
+}
+img.r271 {
+	height:100px;
+}
+img.r272 {
+	height:70px;
+}
+img.r273 {
+	height:141px;
+}
+img.r287 {
+	height:150px;
+}
+img.r299 {
+	height:100px;
+}
+img.r300 {
+	height:169px;
+}
+img.r301 {
+	height:120px;
+}
+img.r303 {
+	height:93px;
+}
+img.r304 {
+	height:112px;
+}
+img.r326 {
+	height:100px;
+}
+img.r327 {
+	height:100px;
+}
+img.r333 {
+	height:73px;
+}
+img.r333a {
+	height:100px;
+}
+img.r334 {
+	height:100px;
+}
+.tag {
+	text-decoration-line:none;
+}
+.violet {
+	color:BlueViolet;
+}
