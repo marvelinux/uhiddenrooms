@@ -5,5 +5,5 @@ its a mirror of this website: <a href="https://tcrf.net/Undertale/Unused_Rooms">
 # rights
 i don't think i have rights to all images that are in this website
 # updates
-i will soon add table of contents at the header of the page
+i will soon add table of contents at the header of the page maybe
 # SEE_YA_SOON
